@@ -64,3 +64,11 @@ footer ul li {
   display: inline-block;
   text-align: left;
 }
+
+footer li a {
+  font-size: 11px;
+}
+
+.main_list {
+  line-height: 1.8;
+}
